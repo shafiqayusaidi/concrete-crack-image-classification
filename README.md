@@ -10,4 +10,4 @@ The model is trained using MobileNetV2 with transfer learning. The model is trai
 
 The image predictions are shown below. The predictions are all accurate and correctly classified the images with cracks and no cracks.
 
-![Uploading Screenshot 2022-04-29 at 01.17.16.png…]()
+<img width="441" alt="Screenshot 2022-04-29 at 01 17 16" src="https://user-images.githubusercontent.com/58509210/165810432-3ae1c720-45f6-4897-b8ef-f65f26533b0d.png">
